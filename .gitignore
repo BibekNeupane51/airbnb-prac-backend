@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+ENV/
+.env
+.venv
+
+# Database
+# Note: Keep your actual data out of Git!
+db.sqlite3
+db.sqlite3-journal
+
+# Static & Media
+/static/
+/staticfiles/
+/media/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+.ipynb_checkpoints
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Django specific
+local_settings.py
+*.log
